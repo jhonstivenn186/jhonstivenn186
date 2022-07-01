@@ -56,5 +56,7 @@ Here are some ideas to get you started:
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-
-<img align="right" alt=yomero" width="450px" height="450px" src="./src/pokemon.GIF">
+<div>
+<img align="right" alt=yomero" width="450px" height="450px" src="./68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f645046366a6d6678716d767a78413d3d2d3833343334353636362e31356566373462386534316164633466383037303636.gif
+">
+</div>
