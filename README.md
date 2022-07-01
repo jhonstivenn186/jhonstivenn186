@@ -1,9 +1,13 @@
 ### Loading... software developer 👋
 
-![jhonstivenn186's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonstivenn186&show_icons=true&theme=blueberry) 
-<img height=300 width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186&theme=blueberry&layout=compact"/>
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186&theme=blueberry&layout=compact)](https://github.com/jhonstivenn186/github-readme-stats)
+<p align="center">
+<img width=500 src="https://github-readme-stats.vercel.app/api?username=jhonstivenn186&show_icons=true&theme=blueberry"/>
+<img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186&theme=blueberry&layout=compact"/>
+</p>
+<!--
+![jhonstivenn186's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonstivenn186&show_icons=true&theme=blueberry) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186&theme=blueberry&layout=compact)](https://github.com/jhonstivenn186/github-readme-stats)
 -->
 
 
