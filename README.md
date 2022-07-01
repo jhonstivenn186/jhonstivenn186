@@ -1,4 +1,4 @@
-### Loading... software developer 👋
+<p align="center">Loading... software developer 👋</p>
 
 
 <p align="center">
