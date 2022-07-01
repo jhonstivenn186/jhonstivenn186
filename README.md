@@ -1,6 +1,6 @@
 ### Loading... software developer 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186&theme=algolia&layout=compact)](https://github.com/jhonstivenn186/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186&theme=blueberry&layout=compact)](https://github.com/jhonstivenn186/github-readme-stats)
 
 <!--
 **jhonstivenn186/jhonstivenn186** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
