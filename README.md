@@ -29,8 +29,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 [![trophy](https://github-profile-trophy.vercel.app/?username=jhonstivenn186)](https://github.com/jhonstivenn186/github-profile-trophy)
 -->
-
+<p align="center">
 ![snake gif](https://github.com/jhonstivenn186/jhonstivenn186/blob/output/github-contribution-grid-snake.gif)
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -39,6 +40,6 @@ Here are some ideas to get you started:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-
+</p>
 
 
