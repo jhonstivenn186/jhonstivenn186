@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 ![snake gif](https://github.com/jhonstivenn186/jhonstivenn186/blob/output/github-contribution-grid-snake.gif)
 [![trophy](https://github-profile-trophy.vercel.app/?username=jhonstivenn186)](https://github.com/jhonstivenn186/github-profile-trophy)
-[![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 
 
