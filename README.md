@@ -1,6 +1,5 @@
 <h1 align="center">Loading... software developer 👋</h1>
 
-
 <p align="center">
 <img width=500 src="https://github-readme-stats.vercel.app/api?username=jhonstivenn186&show_icons=true&theme=blueberry"/>
 <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186&theme=blueberry&layout=compact"/>
