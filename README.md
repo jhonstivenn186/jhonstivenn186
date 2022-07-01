@@ -3,10 +3,13 @@
 <p align="center" size="50px">Loading... software developer 👋</p> 
 </p>
 
-  ##
+
                              
   ##
   
+                             
+                             
+<br>
 <div align="center">
 <a href="https://github.com/jhonstivenn186">
 <img width=500 src="https://github-readme-stats.vercel.app/api?username=jhonstivenn186&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
