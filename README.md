@@ -11,6 +11,7 @@
 
 
 
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 
 
 <!--
@@ -27,3 +28,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
