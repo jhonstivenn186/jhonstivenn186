@@ -4,7 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186&theme=blueberry&layout=compact)](https://github.com/jhonstivenn186/github-readme-stats)
 
 
-<img height=200 width=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186&theme=blueberry&layout=compact"
+<img height=200 width=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186&theme=blueberry&layout=compact"/>
 
 
 <!--
