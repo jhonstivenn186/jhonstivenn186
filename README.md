@@ -1,4 +1,4 @@
-<p align="center">Loading... software developer 👋</p>
+<h1 align="center">Loading... software developer 👋</h1>
 
 
 <p align="center">
