@@ -10,6 +10,7 @@
 <img width=500 src="https://github-readme-stats.vercel.app/api?username=jhonstivenn186&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
 <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186&theme=blueberry&layout=compact&langs_count=7"/>
 </div>
+<hr/>                                                                                                                                                 
 <!--
 ![jhonstivenn186's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonstivenn186&show_icons=true&theme=blueberry) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186&theme=blueberry&layout=compact)](https://github.com/jhonstivenn186/github-readme-stats)
@@ -17,7 +18,7 @@
 ---
 
 ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-<hr/>  
+
 
 <!--
 **jhonstivenn186/jhonstivenn186** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
