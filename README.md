@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 <hr/>
-<--
+<!--
 #### 🎧 I love music! | Spotify Playing
 [<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="350" />]()
 -->
