@@ -63,4 +63,18 @@ Here are some ideas to get you started:
 
   ##
   
+<td> <h4 align="left"> <a href="https://github.com/mctechnology17/gm" target="_blank"><code>GitManager</code></a> </h4>
+  <details>
+    <summary>see more...</summary>
 
+    A manager for GIT multi platform.
+    Compatibility: zsh/bash/fish/powershell and vim/vi/nvim/Gvim/MacVim
+
+  </details> </td>
+</tr>
+<tr>
+<td>
+
+<img align="left" alt="vim-better-header | vim-better-header " width="50px" src="./src/vim-better-header.png" />
+
+</td>
