@@ -9,8 +9,7 @@
 <a href="https://github.com/jhonstivenn186">
 <img width=500 src="https://github-readme-stats.vercel.app/api?username=jhonstivenn186&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
 <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186&theme=blueberry&layout=compact&langs_count=7"/>
-</div>
-<p align="center">Languages and Tools</p>                                                                       
+</div>                                                                 
 <hr/>                                                                                                                                                 
 <!--
 ![jhonstivenn186's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonstivenn186&show_icons=true&theme=blueberry) 
@@ -39,6 +38,7 @@ Here are some ideas to get you started:
 
 ![snake gif](https://github.com/jhonstivenn186/jhonstivenn186/blob/output/github-contribution-grid-snake.gif)
 
+                                                                                                                                               <p <p>align="center">Languages and Tools</p>      
 <div style="display: inline_block" align="center">
 <img heigth=45px src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img heigth=45px src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
