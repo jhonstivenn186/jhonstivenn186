@@ -10,7 +10,8 @@
 <img width=500 src="https://github-readme-stats.vercel.app/api?username=jhonstivenn186&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
 <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186&theme=blueberry&layout=compact&langs_count=7"/>
 </div>
-<hr/>                                                                                                                                                 
+<h2 align="center">Languages and Tools</h3>                                                                       
+ <hr/>                                                                                                                                                 
 <!--
 ![jhonstivenn186's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhonstivenn186&show_icons=true&theme=blueberry) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186&theme=blueberry&layout=compact)](https://github.com/jhonstivenn186/github-readme-stats)
