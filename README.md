@@ -78,3 +78,8 @@ Here are some ideas to get you started:
 #### 🎧 I love music! | Spotify Playing
 [<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="350" />]()
 -->
+
+
+
+![](https://komarev.com/ghpvc/?username=Cassianosch)
+
