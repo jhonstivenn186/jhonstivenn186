@@ -80,8 +80,3 @@ Here are some ideas to get you started:
 -->
 
 
-
-
-![](https://github.com/jhonstivenn186/ghpvc/?username=jhonstivenn186)
-
-![](https://komarev.com/ghpvc/?username=Cassianosch)
