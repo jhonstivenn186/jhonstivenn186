@@ -82,3 +82,4 @@ Here are some ideas to get you started:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186)](https://github.com/jhonstivenn186/github-readme-stats)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186&layout=compact)
