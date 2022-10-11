@@ -18,7 +18,7 @@
 
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186&theme=blueberry&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186&layout=compact)
 
 
 
