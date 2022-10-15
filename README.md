@@ -9,7 +9,7 @@
                  
 <br>                  
 <div align="center">
-<a href="https://github.com/jhonstivenn186/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=jhonstivenn186&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a></a> 
+<a href="https://github.com/jhonstivenn186/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=jhonstivenn186&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="Anurag's github stats" /></a></a> 
 <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186&theme=radical&layout=compact" />                                                                                                                           
 </div>                                                                                                                                                                                                                     
 <hr/>                                                                                                                                       
