@@ -14,6 +14,7 @@
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186&layout=compact&langs_count=7"/>
 </div>                                                                                                                                                                                                                     
 <hr/>   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186&layout=compact)](https://github.com/jhonstivenn186/github-readme-stats)     
                                                                                                                                     
 <!--
 
@@ -21,7 +22,6 @@
 
 ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186&layout=compact)](https://github.com/jhonstivenn186/github-readme-stats)     
 
 <!--
 **jhonstivenn186/jhonstivenn186** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
