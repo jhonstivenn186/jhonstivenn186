@@ -8,11 +8,12 @@
 <div align="center">
 <a href="https://github.com/jhonstivenn186">
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jhonstivenn186&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186&layout=compact&langs_count=7"/>(https://github.com/jhonstivenn186/github-readme-stats)
+<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186&layout=compact&langs_count=7"/>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186&layout=compact)](https://github.com/jhonstivenn186/github-readme-stats)
+                                                                                                                                 
 </div>                                                                 
 <hr/>                                                                                                                                        
 <!--
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186&layout=compact)](https://github.com/jhonstivenn186/github-readme-stats)
 
 ---
 
