@@ -14,7 +14,7 @@
                                                                                                                                               
 - 💬 Ask me about **Android , Laravel**
 
-- 📫 How to reach me **soon**
+- 📫 How to reach me **jhonn.ss16@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
                  
