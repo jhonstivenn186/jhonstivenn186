@@ -6,8 +6,7 @@
 
 <br>               
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonstivenn186&label=Profile%20views&color=0e75b6&style=flat" alt="jhonstivenn" /> </p>
-<br>                                                                                                                                              
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonstivenn186&label=Profile%20views&color=0e75b6&style=flat" alt="jhonstivenn" /> </p>                                                                                                                                           
 - 🔭 I’m currently working on **Angular proyect**
 
 - 🌱 I’m currently learning **DevOps**
