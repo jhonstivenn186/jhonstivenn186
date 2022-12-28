@@ -7,15 +7,17 @@
 <br>               
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jhonstivenn186&label=Profile%20views&color=0e75b6&style=flat" alt="jhonstivenn" /> </p>
-🔭 I’m currently working on Buckoid Android App
+<br>                                                                                                                                              
+- 🔭 I’m currently working on **Angular proyect**
 
-🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning **DevOps**
 
-💬 Ask me about Android , MEARN
+- 💬 Ask me about **Android , Laravel**
 
-📫 How to reach me rishavchanda0@gmail.com
+- 📫 How to reach me **soon**
 
-⚡ Fun fact I am Funny                 
+- ⚡ Fun fact **I am Funny**
+                 
 <br>                  
 <div align="center">
 <a href="https://github.com/jhonstivenn186/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=jhonstivenn186&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" github stats" /></a></a> 
