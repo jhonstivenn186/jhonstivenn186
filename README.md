@@ -20,10 +20,9 @@
                  
 <br>                  
 <div align="center">
-<a href="https://github.com/jhonstivenn186/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=jhonstivenn186&show_icons=true&theme=vue-dark&hide_border=true"/></a></a> 
+<a href="https://github.com/jhonstivenn186/github-readme-stats"><img class="img" src="https://github-readme-stats.vercel.app/api?username=jhonstivenn186&show_icons=true&theme=vue-dark&hide_border=true"/></a></a> 
 <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186&langs_count=8&theme=radical&layout=compact" />                                                                                                                        
-</div>                                                                                                                                                                 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/fragabr)
-
+</div>                                                                                                                                                                 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)                                                
 <hr/>                                                                                                                                       
 <!--
