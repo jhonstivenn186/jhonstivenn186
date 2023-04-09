@@ -21,7 +21,7 @@
 <br>                  
 <div align="center">
 <a href="https://github.com/jhonstivenn186/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=jhonstivenn186&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" github stats" /></a></a> 
-<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186&langs_count=8&theme=radical&layout=compact" />                                                                                                                           
+<img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonstivenn186&langs_count=8&theme=radical&layout=compact" />                     ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)                                                                                                     
 </div>                                                                                                                                                                                                                     
 <hr/>                                                                                                                                       
 <!--
